@@ -30,7 +30,7 @@ globalTempo = {
 		\include "resucitoresucito-marcas.inc"
 		\new StaffGroup <<
 			\include "resucitoresucito-soprano.inc"
-			\include "resucitoresucito-voz2.inc"
+			\include "resucitoresucito-tenor.inc"
 		>>
 	>>
 
