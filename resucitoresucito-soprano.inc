@@ -1,12 +1,12 @@
-\context Staff = "vozuno" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Voz I"
-	\set Staff.shortInstrumentName = "V.1"
+\context Staff = "soprano" \with { \consists Ambitus_engraver } <<
+	\set Staff.instrumentName = "Soprano"
+	\set Staff.shortInstrumentName = "S."
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voz-uno" {
+	\context Voice = "voz-soprano" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -129,7 +129,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-uno" \new Lyrics \lyricmode {
+	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
 		% resucito...
 		¡Re -- su -- ci -- tó,
 		re -- su -- ci -- tó,
