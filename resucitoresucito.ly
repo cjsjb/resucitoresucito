@@ -19,7 +19,7 @@ global = {
 	\skip 1*92  %% 1-92
 }
 globalTempo = {
-	\tempo 4 = 142  \skip 1*92
+	\tempo 4 = 145  \skip 1*92
 }
 \score {
 	<<
