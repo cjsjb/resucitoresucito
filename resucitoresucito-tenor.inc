@@ -30,12 +30,12 @@
             r4 b, b, b,  |
             b 1  |
             r4 b c' b  |
-            a 1  |
+            d' 1  |
 %% 15
-            r4 a b a  |
-            g 1  |
-            r4 g a g  |
-            fis 1  |
+            r4 d' e' d'  |
+            c' 1  |
+            r4 c' d' c'  |
+            b 1  |
             r2 r4 r8 b,  |
 %% 20
             b 4. g 8 _~ g 2  |
@@ -59,12 +59,12 @@
             r4 b, b, b,  |
             b 1  |
             r4 b c' b  |
-            a 1  |
-            r4 a b a  |
+            d' 1  |
+            r4 d' e' d'  |
 %% 40
-            g 1  |
-            r4 g a g  |
-            fis 1  |
+            c' 1  |
+            r4 c' d' c'  |
+            b 1  |
             R1  |
             b 4. g 8 _~ g 2  |
 %% 45
@@ -88,12 +88,12 @@
 %% 60
             b 1  |
             r4 b c' b  |
-            a 1  |
-            r4 a b a  |
-            g 1  |
+            d' 1  |
+            r4 d' e' d'  |
+            c' 1  |
 %% 65
-            r4 g a g  |
-            fis 1  |
+            r4 c' d' c'  |
+            b 1  |
             r2 r4 b, 8 b,  |
             b 4. g 8 _~ g 2  |
             r4 b 8 b 4 a g 8  |
@@ -117,12 +117,12 @@
             b 1  |
 %% 85
             r4 b c' b  |
-            a 1  |
-            r4 a b a  |
-            g 1  |
-            r4 g a g  |
+            d' 1  |
+            r4 d' e' d'  |
+            c' 1  |
+            r4 c' d' c'  |
 %% 90
-            fis 1  |
+            b 1  |
 		R1*2  |
 		\bar "|."
 	} % Voice
