@@ -3,7 +3,8 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Resucitó, resucitó"
+	title = "¡Resucitó!"
+	composer = "Kiko Argüello"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
