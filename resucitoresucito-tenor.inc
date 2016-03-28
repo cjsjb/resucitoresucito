@@ -17,112 +17,112 @@
 		R1*2  |
 
 		% resucito...
-            r4 b, b, b,  |
-            b 1  |
+		r4 b, b, b,  |
+		b 1  |
 %% 5
-            r4 b c' b  |
-            a 1  |
-            r4 a b a  |
-            g 1  |
-            r4 g a g  |
+		r4 b c' b  |
+		a 1  |
+		r4 a b a  |
+		g 1  |
+		r4 g a g  |
 %% 10
-            fis 1  |
-            r4 b, b, b,  |
-            b 1  |
-            r4 b c' b  |
-            d' 1  |
+		fis 1  |
+		r4 b, b, b,  |
+		b 1  |
+		r4 b c' b  |
+		d' 1  |
 %% 15
-            r4 d' e' d'  |
-            c' 1  |
-            r4 c' d' c'  |
-            b 1  |
-            r2 r4 r8 b,  |
+		r4 d' e' d'  |
+		c' 1  |
+		r4 c' d' c'  |
+		b 1  |
+		r2 r4 r8 b,  |
 %% 20
-            b 4. g 8 _~ g 2  |
-            r4 b 8 b 4 a g 8  |
-            a 4. d' 8 _~ d' 2  |
-            r4 a 8 a 4 g fis 8  |
-            g 4. c' 8 _~ c' 2  |
+		b 4. g 8 ~ g 2  |
+		r4 b 8 b 4 a g 8  |
+		a 4. d' 8 ~ d' 2  |
+		r4 a 8 a 4 g fis 8  |
+		g 4. c' 8 ~ c' 2  |
 %% 25
-            r4 g 8 g 4 a g 8  |
-            fis 4. fis 8 _~ fis 2  |
-            r4 b, b, b,  |
-            b 1  |
-            r4 b c' b  |
+		r4 g 8 g 4 a g 8  |
+		fis 4. fis 8 ~ fis 2  |
+		r4 b, b, b,  |
+		b 1  |
+		r4 b c' b  |
 %% 30
-            a 1  |
-            r4 a b a  |
-            g 1  |
-            r4 g a g  |
-            fis 1  |
+		a 1  |
+		r4 a b a  |
+		g 1  |
+		r4 g a g  |
+		fis 1  |
 %% 35
-            r4 b, b, b,  |
-            b 1  |
-            r4 b c' b  |
-            d' 1  |
-            r4 d' e' d'  |
+		r4 b, b, b,  |
+		b 1  |
+		r4 b c' b  |
+		d' 1  |
+		r4 d' e' d'  |
 %% 40
-            c' 1  |
-            r4 c' d' c'  |
-            b 1  |
-            R1  |
-            b 4. g 8 _~ g 2  |
+		c' 1  |
+		r4 c' d' c'  |
+		b 1  |
+		R1  |
+		b 4. g 8 ~ g 2  |
 %% 45
-            r4 b 8 b 4 a g 8  |
-            a 4. d' 8 _~ d' 2  |
-            r4 a 8 a 4 g 8 g fis  |
-            g 4. c' 8 _~ c' 2  |
-            r8 g g g g a 4 g 8  |
+		r4 b 8 b 4 a g 8  |
+		a 4. d' 8 ~ d' 2  |
+		r4 a 8 a 4 g 8 g fis  |
+		g 4. c' 8 ~ c' 2  |
+		r8 g g g g a 4 g 8  |
 %% 50
-            fis 1  |
-            r4 b, b, b,  |
-            b 1  |
-            r4 b c' b  |
-            a 1  |
+		fis 1  |
+		r4 b, b, b,  |
+		b 1  |
+		r4 b c' b  |
+		a 1  |
 %% 55
-            r4 a b a  |
-            g 1  |
-            r4 g a g  |
-            fis 1  |
-            r4 b, b, b,  |
+		r4 a b a  |
+		g 1  |
+		r4 g a g  |
+		fis 1  |
+		r4 b, b, b,  |
 %% 60
-            b 1  |
-            r4 b c' b  |
-            d' 1  |
-            r4 d' e' d'  |
-            c' 1  |
+		b 1  |
+		r4 b c' b  |
+		d' 1  |
+		r4 d' e' d'  |
+		c' 1  |
 %% 65
-            r4 c' d' c'  |
-            b 1  |
-            r2 r4 b, 8 b,  |
-            b 4. g 8 _~ g 2  |
-            r4 b 8 b 4 a g 8  |
+		r4 c' d' c'  |
+		b 1  |
+		r2 r4 b, 8 b,  |
+		b 4. g 8 ~ g 2  |
+		r4 b 8 b 4 a g 8  |
 %% 70
-            a 4. d' 8 _~ d' 2  |
-            r4 a 8 a 4 g fis 8  |
-            g 4. c' 8 _~ c' 2  |
-            r8 g g g g g a g  |
-            fis 1  |
+		a 4. d' 8 ~ d' 2  |
+		r4 a 8 a 4 g fis 8  |
+		g 4. c' 8 ~ c' 2  |
+		r8 g g g g g a g  |
+		fis 1  |
 %% 75
-            r4 b, b, b,  |
-            b 1  |
-            r4 b c' b  |
-            a 1  |
-            r4 a b a  |
+		r4 b, b, b,  |
+		b 1  |
+		r4 b c' b  |
+		a 1  |
+		r4 a b a  |
 %% 80
-            g 1  |
-            r4 g a g  |
-            fis 1  |
-            r4 b, b, b,  |
-            b 1  |
+		g 1  |
+		r4 g a g  |
+		fis 1  |
+		r4 b, b, b,  |
+		b 1  |
 %% 85
-            r4 b c' b  |
-            d' 1  |
-            r4 d' e' d'  |
-            c' 1  |
-            r4 c' d' c'  |
+		r4 b c' b  |
+		d' 1  |
+		r4 d' e' d'  |
+		c' 1  |
+		r4 c' d' c'  |
 %% 90
-            b 1  |
+		b 1  |
 		R1*2  |
 		\bar "|."
 	} % Voice
