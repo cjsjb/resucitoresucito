@@ -127,7 +127,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		% resucito...
 		¡Re -- su -- ci -- tó,
 		re -- su -- ci -- tó,

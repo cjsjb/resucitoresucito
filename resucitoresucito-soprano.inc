@@ -129,7 +129,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% resucito...
 		¡Re -- su -- ci -- tó,
 		re -- su -- ci -- tó,

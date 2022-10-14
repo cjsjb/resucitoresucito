@@ -127,7 +127,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		% resucito...
 		¡Re -- su -- ci -- tó,
 		re -- su -- ci -- tó, __
